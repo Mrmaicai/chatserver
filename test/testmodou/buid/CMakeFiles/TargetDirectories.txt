@@ -1,0 +1,3 @@
+/home/zqs/Code/testmodou/buid/CMakeFiles/server.dir
+/home/zqs/Code/testmodou/buid/CMakeFiles/edit_cache.dir
+/home/zqs/Code/testmodou/buid/CMakeFiles/rebuild_cache.dir
